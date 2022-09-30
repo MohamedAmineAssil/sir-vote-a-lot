@@ -1,0 +1,10 @@
+.EmptyContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.EmptyContainer img{
+    width: 130px;
+}
+

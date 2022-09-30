@@ -1,0 +1,10 @@
+.PollQuestion{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-self: center;
+}
+
+.PollQuestionContainer{
+    width: 100%;
+}
